@@ -49,6 +49,6 @@
 </thead>
 <tr><td><code>sub_fields</code></td><td> array </td><td>empty array</td></tr>
 <tr><td><code>layout</code></td><td> table/block/row </td><td>table</td></tr>
-<tr><td><code>min</code></td><td> Min number of rows </td><td><code>null</code></td></tr>
-<tr><td><code>max</code></td><td> Max number of rows </td><td><code>null</code></td></tr>
+<tr><td><code>min</code></td><td> int or null </td><td><code>null</code></td></tr>
+<tr><td><code>max</code></td><td> int or null </td><td><code>null</code></td></tr>
 </table>
